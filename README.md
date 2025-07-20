@@ -21,16 +21,21 @@
 # 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats-demolab.vercel.app/api?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=Dharmik200817&theme=dark&hide_border=false" />
+  <!-- Streak Stats Card -->
+  <img src="https://github-readme-streak-stats.demolab.com/?user=Dharmik200817&theme=dark&hide_border=false" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <!-- Top Languages Card -->
+  <img src="https://github-readme-stats-demolab.vercel.app/api/top-langs/?username=Dharmik200817&theme=dark&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
+
 ---
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
