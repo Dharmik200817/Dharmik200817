@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmik200817&theme=dark&hide_border=false" alt="GitHub Streak" />
+  <img src="[https://github-readme-streak-stats.herokuapp.com?user=Dharmik200817&theme=dark&hide_border=false](https://nirzak-streak-stats.vercel.app/?user=Dharmik200817)" alt="GitHub Streak" />
 </p>
 
 <p align="center">
