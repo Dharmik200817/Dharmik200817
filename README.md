@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Dharmik200817&theme=dark&hide_border=false" />
+  <img src="(https://github-readme-streak-stats.herokuapp.com?user=Dharmik200817)](https://git.io/streak-stats)&theme=dark&hide_border=false" />
 </p>
 
 <p align="center">
