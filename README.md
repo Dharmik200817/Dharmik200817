@@ -24,9 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Dharmik200817]https://git.io/streak-stats&theme=dark&hide_border=false" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dharmik200817)](https://git.io/streak-stats)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
