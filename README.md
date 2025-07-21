@@ -24,9 +24,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dharmik200817)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Dharmik200817&theme=dark&hide_border=false" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik200817&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </p>
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
