@@ -3,6 +3,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dharmik-chokhaliya-ab80592bb)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dharmikchokhaliya62@gmail.com)
 
+
 ---
 
 # 💻 Tech Stack  
