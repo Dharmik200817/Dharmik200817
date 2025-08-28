@@ -7,7 +7,7 @@
 ## 📊 GitHub Stats  
 ![Dharmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmik200817&show_icons=true&theme=tokyonight&hide_border=true)  
 
-## 🔥 Streak Stats  ## 🔥 Streak Stats  
+## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com?user=Dharmik200817&theme=tokyonight&hide_border=true)
  
 
