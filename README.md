@@ -7,8 +7,9 @@
 ## 📊 GitHub Stats  
 ![Dharmik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dharmik200817&show_icons=true&theme=tokyonight&hide_border=true)  
 
-## 🔥 Streak Stats  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dharmik200817&theme=tokyonight&hide_border=true)  
+## 🔥 Streak Stats  ## 🔥 Streak Stats  
+![GitHub Streak](https://streak-stats.demolab.com?user=Dharmik200817&theme=tokyonight&hide_border=true)
+ 
 
 ## 💡 Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dharmik200817&layout=compact&theme=tokyonight&hide_border=true)  
