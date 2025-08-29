@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Frontend Developer passionate about crafting modern, responsive, and animated web experiences.<br>💡 Tech enthusiast exploring Linux, open-source tools, and creative coding solutions.<br>🐧 Linux power user (Kali) who enjoys experimenting with system customization and development workflows.<br>🌱 Constant learner, currently diving deeper into JavaScript and full-stack development.<br>🎯 Focused on turning ideas into clean, functional, and visually appealing projects.<br>✨ Believer in “Code. Create. Innovate.”
+🚀 Frontend Developer passionate about crafting modern, responsive, and animated web experiences.<br>💡 Tech enthusiast exploring Linux, open-source tools, and creative coding solutions.<br>🐧 Linux power user who enjoys experimenting with system customization and development workflows.<br>🌱 Constant learner, currently diving deeper into JavaScript and full-stack development.<br>🎯 Focused on turning ideas into clean, functional, and visually appealing projects.<br>✨ Believer in “Code. Create. Innovate.”
 
 
 ## 🌐 Socials:
